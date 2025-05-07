@@ -1,0 +1,1 @@
+{"sequence_length": 4, "hidden_dim": 178, "num_layers": 1, "dropout": 0.23380603053231552, "learning_rate": 0.0010570771786961055, "batch_size": 16, "num_epochs": 85, "optimizer": "RMSprop"}

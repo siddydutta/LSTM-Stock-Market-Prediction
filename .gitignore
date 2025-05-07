@@ -1,9 +1,2 @@
-# Files Ignored Until Competition Ends
-*.csv
-*.ipynb
-*.pth
-*.json
-*.txt
-
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
